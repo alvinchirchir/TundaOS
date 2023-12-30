@@ -14,7 +14,7 @@ I've created a makefile that you can just run using the following commands. Make
 - brew install i386-elf-ld 
 - brew install i386-elf-gcc 
 
-Then using make file use the commands below:
+Then using make file, run the commands below ;)
 ```sh
 make run
 make clean
